@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: XSD socialshareprivacy\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: XSized <xsized@xsized.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+
+#. Text in echo
+#: wp_shp.php:182
+msgid "Facebook description:"
+msgstr "Facebook Infotext:"
+
+#. Text in echo
+#: wp_shp.php:157
+msgid "General info (on <em>i</em>):"
+msgstr "Allgemeine Info (unter <em>i</em>):"
+
+#. Text in echo
+#: wp_shp.php:220
+msgid "Google+ description:"
+msgstr "Google+ Infotext:"
+
+#. Text in echo
+#: wp_shp.php:142
+#: wp_shp.php:176
+#: wp_shp.php:195
+#: wp_shp.php:214
+msgid "No"
+msgstr "Nein"
+
+#. Text in echo
+#: wp_shp.php:163
+msgid "Preferences description:"
+msgstr "Beschreibung der Optionen:"
+
+#. Text in echo
+#: wp_shp.php:211
+msgid "Show Google+ button:"
+msgstr "Google+ anzeigen:"
+
+#. Text in echo
+#: wp_shp.php:192
+msgid "Show Twitter button:"
+msgstr "Twitter anzeigen:"
+
+#. Text in echo
+#: wp_shp.php:148
+msgid "Show buttons:"
+msgstr "Anzeige der Buttons:"
+
+#. Text in echo
+#: wp_shp.php:173
+msgid "Show Facebook button:"
+msgstr "Facebook anzeigen:"
+
+#. Text in echo
+#: wp_shp.php:139
+msgid "Show on pages:"
+msgstr "Auf Seiten anzeigen:"
+
+#. Text in echo
+#: wp_shp.php:201
+msgid "Twitter description:"
+msgstr "Twitter Infotext:"
+
+#. Text in echo
+#: wp_shp.php:143
+#: wp_shp.php:177
+#: wp_shp.php:196
+#: wp_shp.php:215
+msgid "Yes"
+msgstr "Ja"
+
+#. Text in echo
+#: wp_shp.php:151
+msgid "after the content"
+msgstr "nach dem Inhalt"
+
+#. Text in echo
+#: wp_shp.php:152
+msgid "before the content"
+msgstr "vor dem Inhalt"
+
